@@ -1,8 +1,11 @@
+Forked from the original to add API keys to it
+
 QuickChart
 ---
 [![Build Status](https://api.travis-ci.com/typpo/quickchart.svg?branch=master)](https://travis-ci.com/typpo/quickchart)
 
 [QuickChart](https://quickchart.io/) is a service that generates images of charts from a URL.  Because these charts are simple images, they are very easy to embed in non-dynamic environments such as email, SMS, chat rooms, and so on.
+
 
 ## See it in action
 
